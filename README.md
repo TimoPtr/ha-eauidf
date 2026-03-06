@@ -1,6 +1,6 @@
 # L'eau d'Ile-de-France (SEDIF) for Home Assistant
 
-[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?category=integration&repository=ha-eauidf&owner=timoptr)
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?category=integration&repository=ha_eauidf&owner=timoptr)
 
 Home Assistant custom integration for [L'eau d'Ile-de-France](https://connexion.leaudiledefrance.fr) (SEDIF) water consumption monitoring.
 
@@ -18,7 +18,7 @@ This integration was built with the help of [Claude](https://claude.ai) (Anthrop
 
 Click the button to open your Home Assistant instance with this repository pre-filled:
 
-[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?category=integration&repository=ha-eauidf&owner=timoptr)
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?category=integration&repository=ha_eauidf&owner=timoptr)
 
 Or add it manually:
 
